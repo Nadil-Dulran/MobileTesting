@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Mobile-Testing</string>
+    <string name="button">Click the button</string>
+    <string name="click">Click Me</string>
+    <string name="hello">Hello, User!</string>
 </resources>
